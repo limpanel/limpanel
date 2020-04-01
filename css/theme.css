@@ -332,7 +332,7 @@ section {
 }
 
 .page-content--bge5 {
-    background: #ff0000;
+    background: #e5e5e5;
     height: 100vh;
 }
 
@@ -385,7 +385,7 @@ section {
 }
 
 .login-content {
-    background: #ff0000;
+    background: #fff;
     padding: 30px 30px 20px;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
